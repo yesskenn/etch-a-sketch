@@ -1,4 +1,4 @@
-# Title: Etch A Sketch
+# Etch A Sketch
 
 An interactive drawing grid inspired by an Etch-A-Sketch. Hover over squares to have them be filled or change color. Change the size of the grid if you want.
 
